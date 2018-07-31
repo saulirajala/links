@@ -10,5 +10,5 @@ Collection of links related to React, Javascript, PHP, WordPress and some other 
 
 ## PHP related stuff
 - [Visual Studio Code for PHP Developers](https://laracasts.com/series/visual-studio-code-for-php-developers)
-- [Using VS Code For WordPress Development](Using VS Code For WordPress Development)
+- [Using VS Code For WordPress Development](https://deliciousbrains.com/vs-code-wordpress/)
 - [VS Code for WordPress Development](https://tommcfarlin.com/vs-code-wordpress/)
