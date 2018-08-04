@@ -11,6 +11,7 @@ Collection of links related to React, Javascript, PHP, WordPress and some other 
 - [React Native Architecture : Explained!](https://www.logicroom.co/react-native-architecture-explained/)
 - [Understanding the React Native bridge concept](https://hackernoon.com/understanding-react-native-bridge-concept-e9526066ddb8)
 - [Bridging in React Native](https://tadeuzagallo.com/blog/react-native-bridge/)
+- [Chain React 2017: Breaking Down Bridging in React Native by Peggy Rayzis](https://www.youtube.com/watch?v=GiUo88TGebs)
 
 ## PHP related stuff
 - [Visual Studio Code for PHP Developers](https://laracasts.com/series/visual-studio-code-for-php-developers)
