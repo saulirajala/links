@@ -9,6 +9,8 @@ Collection of links related to React, Javascript, PHP, WordPress and some other 
 - [Ignite CLI](https://github.com/infinitered/ignite)
 - [React Navigation: Stacks, Tabs, and Drawers … Oh my!](https://medium.com/async-la/react-navigation-stacks-tabs-and-drawers-oh-my-92edd606e4db)
 - [React Native Architecture : Explained!](https://www.logicroom.co/react-native-architecture-explained/)
+- [Understanding the React Native bridge concept](https://hackernoon.com/understanding-react-native-bridge-concept-e9526066ddb8)
+- [Bridging in React Native](https://tadeuzagallo.com/blog/react-native-bridge/)
 
 ## PHP related stuff
 - [Visual Studio Code for PHP Developers](https://laracasts.com/series/visual-studio-code-for-php-developers)
