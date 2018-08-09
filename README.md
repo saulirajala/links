@@ -15,6 +15,8 @@ Collection of links related to React, Javascript, PHP, WordPress and some other 
 - [Understanding the React Native bridge concept](https://hackernoon.com/understanding-react-native-bridge-concept-e9526066ddb8)
 - [Bridging in React Native](https://tadeuzagallo.com/blog/react-native-bridge/)
 - [Chain React 2017: Breaking Down Bridging in React Native by Peggy Rayzis](https://www.youtube.com/watch?v=GiUo88TGebs)
+- [Shipping Persistant Reducers](https://shift.infinite.red/shipping-persistant-reducers-7341691232b1)
+- [Reactotron - Your Robo Tour Through Awesomeness](https://www.youtube.com/watch?v=tPBRfxswDjA&ab_channel=InfiniteRed)
 
 ### Redux
 - [Redux homepage](https://redux.js.org/)
@@ -27,6 +29,7 @@ Collection of links related to React, Javascript, PHP, WordPress and some other 
 ### Redux-Saga
 - [Redux-Saga homepage](https://redux-saga.js.org/)
 - [What is Redux-Saga?](https://engineering.universe.com/what-is-redux-saga-c1252fc2f4d1)
+- [Using redux-saga To Simplify Your Growing React Native Codebase](https://shift.infinite.red/using-redux-saga-to-simplify-your-growing-react-native-codebase-2b8036f650de)
 - [Redux-Saga Beginner Tutorial](https://github.com/redux-saga/redux-saga/blob/master/docs/introduction/BeginnerTutorial.md)
 - [How to Make API Calls in Redux with redux-saga](https://www.youtube.com/playlist?list=PLw7fHewFA6OTyUnLiZ1HQvYdzjp9ARMQw)
 - [Understanding Generator Functions & Using Redux Saga](https://www.youtube.com/watch?v=o3A9EvMspig)
