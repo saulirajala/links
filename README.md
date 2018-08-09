@@ -29,6 +29,7 @@ Collection of links related to React, Javascript, PHP, WordPress and some other 
 - [What is Redux-Saga?](https://engineering.universe.com/what-is-redux-saga-c1252fc2f4d1)
 - [Redux-Saga Beginner Tutorial](https://github.com/redux-saga/redux-saga/blob/master/docs/introduction/BeginnerTutorial.md)
 - [How to Make API Calls in Redux with redux-saga](https://www.youtube.com/playlist?list=PLw7fHewFA6OTyUnLiZ1HQvYdzjp9ARMQw)
+- [Understanding Generator Functions & Using Redux Saga](https://www.youtube.com/watch?v=o3A9EvMspig)
 - [Async operations using redux-saga](https://medium.freecodecamp.org/async-operations-using-redux-saga-2ba02ae077b3)
 - [Async React with Redux Saga](https://egghead.io/courses/async-react-with-redux-saga) *PAID*
 
