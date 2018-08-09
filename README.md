@@ -32,7 +32,7 @@ Collection of links related to React, Javascript, PHP, WordPress and some other 
 - [Understanding Generator Functions & Using Redux Saga](https://www.youtube.com/watch?v=o3A9EvMspig)
 - [Async operations using redux-saga](https://medium.freecodecamp.org/async-operations-using-redux-saga-2ba02ae077b3)
 - [Async React with Redux Saga](https://egghead.io/courses/async-react-with-redux-saga) *PAID*
-
+- [Redux Saga](https://www.pluralsight.com/courses/redux-saga) *PAID*, but free 10-day trial
 
 
 ## PHP related stuff
