@@ -22,6 +22,7 @@ Collection of links related to React, Javascript, PHP, WordPress and some other 
 - [Redux homepage](https://redux.js.org/)
 - [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)
 - [Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
+- [Getting Started with React-Redux](https://hackernoon.com/getting-started-with-react-redux-1baae4dcb99b)
 - [Learn Redux](https://learnredux.com/)
 - [The Complete React Native and Redux Course, from section 11 onward](https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/content) *PAID*
 - [Advanced React and Redux: 2018 Edition](https://www.udemy.com/react-redux-tutorial/learn/v4/content) *PAID*
