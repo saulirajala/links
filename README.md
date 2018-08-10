@@ -6,7 +6,7 @@ Collection of links related to React, Javascript, PHP, WordPress and some other 
 - [What's the difference between ESLint and Prettier?](https://restishistory.net/blog/whats-the-difference-between-eslint-and-prettier.html)
 - [The Basics Of ES6 Generators](https://davidwalsh.name/es6-generators)
 
-### React Native
+### React (Native)
 - [Prettier, for React Native](https://medium.com/react-native-training/prettier-for-react-native-776fe33b8d93)
 - [VSCode for React Native](https://medium.com/react-native-training/vscode-for-react-native-526ec4a368ce)
 - [Ignite CLI](https://github.com/infinitered/ignite)
@@ -17,6 +17,7 @@ Collection of links related to React, Javascript, PHP, WordPress and some other 
 - [Chain React 2017: Breaking Down Bridging in React Native by Peggy Rayzis](https://www.youtube.com/watch?v=GiUo88TGebs)
 - [Shipping Persistant Reducers](https://shift.infinite.red/shipping-persistant-reducers-7341691232b1)
 - [Reactotron - Your Robo Tour Through Awesomeness](https://www.youtube.com/watch?v=tPBRfxswDjA&ab_channel=InfiniteRed)
+- [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
 
 ### Redux
 - [Redux homepage](https://redux.js.org/)
