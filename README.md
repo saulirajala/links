@@ -5,6 +5,7 @@ Collection of links related to React, Javascript, PHP, WordPress and some other 
 - [How to write better code by using a linter](https://restishistory.net/blog/how-to-write-better-code-by-using-a-linter.html)
 - [What's the difference between ESLint and Prettier?](https://restishistory.net/blog/whats-the-difference-between-eslint-and-prettier.html)
 - [The Basics Of ES6 Generators](https://davidwalsh.name/es6-generators)
+- [Nordic.js 2015 • Kate Hudson - Advanced front-end automation with npm scripts](https://www.youtube.com/watch?v=0RYETb9YVrk)
 
 ### React (Native)
 - [Prettier, for React Native](https://medium.com/react-native-training/prettier-for-react-native-776fe33b8d93)
